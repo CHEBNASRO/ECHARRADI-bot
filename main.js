@@ -1,7 +1,7 @@
 /*
-wa.me/6282285357346
-github: https://github.com/sadxzyq
-Instagram: https://instagram.com/tulisan.ku.id
+wa.me/212632980403
+github: https://github.com/sadxµ
+Instagram: https://instagram.com/ECHARRADI
 ini wm gw cok jan di hapus
 */
 
@@ -113,7 +113,7 @@ protoType()
 serialize()
 //Biarlah wk dikit huft 
 /*Klo di hapus dah lah*/ //Nightmare Md
-const Tio = '212717457920' //input here to number connecting
+const Tio = '212632980403' //input here to number connecting
 global.API = (name, path = '/', query = {}, apikeyqueryname) => (name in global.APIs ? global.APIs[name] : name) + path + (query || apikeyqueryname ? '?' + new URLSearchParams(Object.entries({
     ...query,
     ...(apikeyqueryname ? {
