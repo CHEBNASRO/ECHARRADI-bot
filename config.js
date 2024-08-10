@@ -9,22 +9,22 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
+['212632980403', 'ECHARRADI', true],
+['212632980403', 'CICERO', false],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '212658709436',
+ pairingNumber: '212632980403',
+ nameown: 'ECHARRADI',
+ nomerown: '212632980403',
  packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'ꜱɪʟᴀɴᴀ',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
- stickpack: 'Whatsapp',
- stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+ author: 'ECHARRADI',
+ namebot: 'CICERO',
+ wm: 'كن خائنا تكن الاجمل.',
+ stickpack: 'تنسى كأنك لم تكن.',
+ stickauth: 'ECHARRADI ʙᴏᴛ '
 }
 
 // Thumbnail 
@@ -56,7 +56,7 @@ global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
 // Info Wait
 global.msg = {
  wait: '⏱️ *Please be patient*\n\> Running command from *User*!',
- eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *Bobiza Bot*. There was an error in the system while executing the command.'
+ eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *CICERO Bot*. There was an error in the system while executing the command.'
 }
 
 global.multiplier = 69
